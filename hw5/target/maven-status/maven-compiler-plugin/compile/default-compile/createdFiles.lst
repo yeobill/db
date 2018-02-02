@@ -1,0 +1,7 @@
+LockManager$TableLock.class
+Transaction.class
+LockManager$Request.class
+LockManager$LockType.class
+LockManager$DeadlockAvoidanceType.class
+LockManager.class
+Transaction$Status.class

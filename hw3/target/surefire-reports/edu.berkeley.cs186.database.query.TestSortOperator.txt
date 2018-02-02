@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: edu.berkeley.cs186.database.query.TestSortOperator
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 4.772 s <<< FAILURE! - in edu.berkeley.cs186.database.query.TestSortOperator
+testMergePass(edu.berkeley.cs186.database.query.TestSortOperator)  Time elapsed: 1.075 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestSortOperator.testMergePass(TestSortOperator.java:151)
+
+testSortBackwards(edu.berkeley.cs186.database.query.TestSortOperator)  Time elapsed: 1.004 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestSortOperator.testSortBackwards(TestSortOperator.java:209)
+
+testMergeSortedRuns(edu.berkeley.cs186.database.query.TestSortOperator)  Time elapsed: 0.692 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestSortOperator.testMergeSortedRuns(TestSortOperator.java:104)
+
+testSortRandomOrder(edu.berkeley.cs186.database.query.TestSortOperator)  Time elapsed: 0.636 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestSortOperator.testSortRandomOrder(TestSortOperator.java:239)
+
+testSortNoChange(edu.berkeley.cs186.database.query.TestSortOperator)  Time elapsed: 0.704 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestSortOperator.testSortNoChange(TestSortOperator.java:185)
+
+testSortRun(edu.berkeley.cs186.database.query.TestSortOperator)  Time elapsed: 0.66 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestSortOperator.testSortRun(TestSortOperator.java:67)
+

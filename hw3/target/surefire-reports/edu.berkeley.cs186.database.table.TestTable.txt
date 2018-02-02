@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: edu.berkeley.cs186.database.table.TestTable
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 7, Skipped: 12, Time elapsed: 3.691 s <<< FAILURE! - in edu.berkeley.cs186.database.table.TestTable
+testRIDPageIterator(edu.berkeley.cs186.database.table.TestTable)  Time elapsed: 0.621 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.table.TestTable.testRIDPageIterator(TestTable.java:296)
+
+testRIDPageIteratorMarkReset(edu.berkeley.cs186.database.table.TestTable)  Time elapsed: 0.327 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.table.TestTable.testRIDPageIteratorMarkReset(TestTable.java:337)
+
+testRIDBlockIterator(edu.berkeley.cs186.database.table.TestTable)  Time elapsed: 0.707 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.table.TestTable.testRIDBlockIterator(TestTable.java:363)
+
+testRIDBlockIteratorMarkReset(edu.berkeley.cs186.database.table.TestTable)  Time elapsed: 0.621 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.table.TestTable.testRIDBlockIteratorMarkReset(TestTable.java:378)
+
+testTableIterator(edu.berkeley.cs186.database.table.TestTable)  Time elapsed: 0.413 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.table.TestTable.testTableIterator(TestTable.java:432)
+
+testRIDPageIteratorWithGaps(edu.berkeley.cs186.database.table.TestTable)  Time elapsed: 0.337 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.table.TestTable.testRIDPageIteratorWithGaps(TestTable.java:321)
+
+testTableIteratorWithGaps(edu.berkeley.cs186.database.table.TestTable)  Time elapsed: 0.662 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.table.TestTable.testTableIteratorWithGaps(TestTable.java:471)
+

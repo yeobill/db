@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: edu.berkeley.cs186.database.query.TestJoinOperator
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 3.053 s <<< FAILURE! - in edu.berkeley.cs186.database.query.TestJoinOperator
+testSimpleJoinBNLJ(edu.berkeley.cs186.database.query.TestJoinOperator)  Time elapsed: 0.135 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestJoinOperator.testSimpleJoinBNLJ(TestJoinOperator.java:144)
+
+testSimpleJoinPNLJ(edu.berkeley.cs186.database.query.TestJoinOperator)  Time elapsed: 0.122 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestJoinOperator.testSimpleJoinPNLJ(TestJoinOperator.java:114)
+
+testSortMergeJoinUnsortedInputs(edu.berkeley.cs186.database.query.TestJoinOperator)  Time elapsed: 0.921 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestJoinOperator.testSortMergeJoinUnsortedInputs(TestJoinOperator.java:346)
+
+testSimpleSortMergeJoin(edu.berkeley.cs186.database.query.TestJoinOperator)  Time elapsed: 0.136 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestJoinOperator.testSimpleSortMergeJoin(TestJoinOperator.java:254)
+
+testBNLJDiffOutPutThanPNLJ(edu.berkeley.cs186.database.query.TestJoinOperator)  Time elapsed: 0.852 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestJoinOperator.testBNLJDiffOutPutThanPNLJ(TestJoinOperator.java:428)
+
+testSimplePNLJOutputOrder(edu.berkeley.cs186.database.query.TestJoinOperator)  Time elapsed: 0.831 s  <<< ERROR!
+java.lang.UnsupportedOperationException: hw3: TODO
+	at edu.berkeley.cs186.database.query.TestJoinOperator.testSimplePNLJOutputOrder(TestJoinOperator.java:221)
+
